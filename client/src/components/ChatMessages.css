@@ -1,0 +1,49 @@
+.dot {
+  animation: bounce 1.2s infinite ease-in-out;
+  display: inline-block;
+  font-size: 24px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.dot-1 {
+  animation-delay: -0.32s;
+}
+
+.dot-2 {
+  animation-delay: -0.16s;
+}
+
+@keyframes bounce {
+
+  0%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-10px);
+  }
+}
+
+.chat-messages-container {
+  max-height: 24rem;
+  overflow-y: scroll;
+  scrollbar-color: blue-100 transparent;
+  scrollbar-width: thin;
+}
+
+.chat-messages-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-messages-container::-webkit-scrollbar-thumb {
+  background-color: #63b3ed;
+  border-radius: 3px;
+}
+
+.chat-messages-container::-webkit-scrollbar-thumb:hover {
+  background-color: #3182ce;
+}
+
