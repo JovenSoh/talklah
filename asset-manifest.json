@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/talklah/static/css/main.ddc98883.chunk.css",
-    "main.js": "/talklah/static/js/main.422d237f.chunk.js",
-    "main.js.map": "/talklah/static/js/main.422d237f.chunk.js.map",
+    "main.js": "/talklah/static/js/main.d699eedc.chunk.js",
+    "main.js.map": "/talklah/static/js/main.d699eedc.chunk.js.map",
     "runtime-main.js": "/talklah/static/js/runtime-main.d80f5eae.js",
     "runtime-main.js.map": "/talklah/static/js/runtime-main.d80f5eae.js.map",
     "static/css/2.55cde63d.chunk.css": "/talklah/static/css/2.55cde63d.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.55cde63d.chunk.css",
     "static/js/2.91deb965.chunk.js",
     "static/css/main.ddc98883.chunk.css",
-    "static/js/main.422d237f.chunk.js"
+    "static/js/main.d699eedc.chunk.js"
   ]
 }
